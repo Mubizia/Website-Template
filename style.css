@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(images/IMG-20240909-WA0241.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h3{
+    color: #66433b;
+    text-align: center;
+    padding: 50px;
+    font-family: system-ui;
+
+}
+#t3{
+    font-family: Quicksand;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+h1{
+    color: #66433b;
+    text-align: center;
+    padding: 0px;
+    font-size: 70px;
+    font-family: Noto+Serif+JP;
+   font-weight: bolder;
+   margin-bottom: 5px;
+}
+
+button{
+    color: #66433b;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+    margin-bottom: 55px;
+    text-align: center;
+    height: 34px;
+    border-radius: 50px;
+    width: 135px;
+    background-color: white;
+    border: none ;
+    cursor: pointer;
+
+}
+    
+button:hover{
+    background-color: rgb(107, 67, 57);
+    color: white;
+}
+
+.icons {
+    color: rgb(107, 67, 57);
+    font-size: 27px;
+    cursor: pointer;
+    word-spacing: 10px;
+    text-align: center;
+}
+
+.icons:hover{
+   color:  rgb(131, 88, 76);
+}
+
+
+
+
+
